@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1736233200,
+    "watertemp": 6.4,
+    "airtemp": 3.9,
+    "quote": "Iglu boue bringts meh"
+  },
+  {
+    "timestamp": 1736492400,
+    "watertemp": 6.4,
+    "airtemp": 0.3,
+    "quote": "Iglu boue bringts meh"
+  },
+  {
+    "timestamp": 1737961200,
+    "watertemp": 6.6,
+    "airtemp": 4.9,
+    "quote": "R\u00e4geboge zum zmorge"
+  },
+  {
+    "timestamp": 1738566000,
+    "watertemp": 6.2,
+    "airtemp": -0.2,
+    "quote": "Mach gschider es sch\u00f6ns F\u00fc\u00fcr"
+  },
+  {
+    "timestamp": 1738909800,
+    "watertemp": 5.7,
+    "airtemp": -0.2,
+    "quote": "Iglu boue bringts meh"
+  },
+  {
+    "timestamp": 1739452215.876401,
+    "watertemp": "7",
+    "airtemp": "7.1",
+    "quote": "Nassi sach"
+  }
+]
